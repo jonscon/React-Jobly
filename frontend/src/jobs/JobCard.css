@@ -1,0 +1,12 @@
+.JobCard-body {
+    border: 1px solid;
+    margin: 2em;
+    padding: 1em;
+}
+
+.JobCard-title {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+

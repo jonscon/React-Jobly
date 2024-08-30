@@ -1,0 +1,11 @@
+.LoginForm-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70vw;
+}
+
+.form-group {
+    width: 70vw;
+}
